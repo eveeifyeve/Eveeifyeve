@@ -67,7 +67,7 @@
             in
             {
               roles = writeNuBin "gen-roles" ''
-                                                let roles = (http get https://eveeifyeve.pages.dev/api/roles | decode | from json)
+                                                let roles = (http get https://eveeifyeve.dev/api/roles | decode | from json)
                 																let format_years = {|it|
                     let start = ($it | get -o startDate)
                     let end   = ($it | get -o endDate)
@@ -100,7 +100,7 @@
               '';
 
               skillIcon = writeNuBin "gen-skills" ''
-                let skills = (http get https://eveeifyeve.pages.dev/api/skillIcon | decode | from json | str join ",")
+                let skills = (http get https://eveeifyeve.dev/api/skillIcon | decode | from json | str join ",")
                 print $" <p align=\"center\"><a href=\"https://github.com/LelouchFR/skill-icons\"><img src=\"https://go-skill-icons.vercel.app/api/icons?i=($skills)&perline=13\" /></a></p>"
               '';
 
