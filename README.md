@@ -30,7 +30,7 @@ Hi, I am Eveeifyeve 👋
 <!-- BEGIN mdsh -->
 ### Businesses
 - DigitalBrewStudios: Owner/Proprietor,
-- OpusClient: Senior Software Engineer,
+- OpusClient: Senior Software Engineer (2023-2026),
 - NodeForge: Senior Software Developer (2024-2025),
 - DuvanMC: Junior Software Developer (2024)
 
