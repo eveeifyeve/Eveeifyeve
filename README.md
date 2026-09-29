@@ -8,9 +8,9 @@ Hi, I am Eveeifyeve 👋
 -------------------------
 *   🌍 I'm based in Australia
 *   🔭  I'm currently trying to get [software contract clients for DigitalBrewStudios](https://digitalbrewstudios.com/contact-us)
-*   🚀 I'm currently working on: [TeaClient](https://teaclient.com) (Quality of Life Minecraft Client) & [Nix-Windows](https://github.com/DigitalBrewStudios/nix-windows)
-*   🌟  I specialize in [making software.](https://digitalbrewstudios.com/contact-us)
-*   ✉️ You can contact me [here](https://eveeifyeve.dev/contact)
+*   🚀 I'm currently working on: [Hydra (continuous integration system for Nix](https://github.com/NixOS/hydra) & [BrewFlow (productivty tool for all types of productive tasks)](https://DigitalBrewStudios.com)
+*   🌟  I specialize in [making software.](https://DigitalBrewStudios.com/contact-us)
+*   ✉️ You can contact me personally [here](https://eveeifyeve.dev/contact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eveeifyeve.eveeifyeve&left_color=royalblue&right_color=mediumpurple&left_text=People%20Visited:)
 
