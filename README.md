@@ -8,7 +8,7 @@ Hi, I am Eveeifyeve 👋
 -------------------------
 *   🌍 I'm based in Australia
 *   🔭  I'm currently trying to get [software contract clients for DigitalBrewStudios](https://digitalbrewstudios.com/contact-us)
-*   🚀 I'm currently working on: [Hydra (continuous integration system for Nix](https://github.com/NixOS/hydra) & [BrewFlow (productivty tool for all types of productive tasks)](https://DigitalBrewStudios.com)
+*   🚀 I'm currently working on: [Hydra (continuous integration system for Nix)](https://github.com/NixOS/hydra) & [BrewFlow (productivty tool for all types of productive tasks)](https://DigitalBrewStudios.com)
 *   🌟  I specialize in [making software.](https://DigitalBrewStudios.com/contact-us)
 *   ✉️ You can contact me personally [here](https://eveeifyeve.dev/contact)
 
